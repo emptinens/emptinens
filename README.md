@@ -13,7 +13,7 @@
       <br>
       <br>
       <b>
-        ~ Adriano Tisera (@Axenide) ~
+        ~ Veralno (@emptinens) ~
       </b>
     </samp>
   </p>
